@@ -1,0 +1,4 @@
+{:deps {ring/ring-core          {:mvn/version "1.9.3"}
+        ring/ring-defaults      {:mvn/version "0.3.2"}
+        clj-http/clj-http       {:mvn/version "3.12.2"}
+        clj-time/clj-time       {:mvn/version "0.15.2"}}}
